@@ -6,7 +6,7 @@ This includes a copy of default bashrc for those of you who may have lost their 
 
 ----------------------------------------------default bashrc below this line--------------------------------------------
 
-
+```bash
 
 
 
@@ -127,3 +127,4 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+```
